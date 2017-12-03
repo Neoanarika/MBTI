@@ -1,0 +1,19 @@
+{
+  "spacy_version":"2.0.3",
+  "version":"0.0.0",
+  "name":"model",
+  "pipeline":[
+    "textcat"
+  ],
+  "vectors":{
+    "vectors":0,
+    "keys":0,
+    "width":0
+  },
+  "author":"",
+  "license":"",
+  "lang":"en",
+  "description":"",
+  "url":"",
+  "email":""
+}
