@@ -6,7 +6,7 @@ This is a CNN based text classifier using spacy that can classify your Myers–B
 
 You can train the model using the jupyter notebook provided or load from a pre-trained model. 
 
-## Loading from pre-trained model
+# Loading from pre-trained model
 
 ```
 import spacy
@@ -16,4 +16,3 @@ doc = nlp(text)
 print(doc.cats)
  ```
 
- 
